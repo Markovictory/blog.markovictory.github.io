@@ -1,8 +1,8 @@
 title: Markovictory
 author: Markovictory
-email: sasha@markovictory.com
+email: 
 description: > # this means to ignore newlines until "show_exerpts:"
-  A blog for competitive trading card games, focusing on Flesh and Blood fabtcg.
+  A strategy blog for competitive trading card games, focusing on Flesh and Blood fabtcg.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Markovictory
-  tagline: Strategy for Card Games
+  tagline: Card game strategy and other things.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
