@@ -45,7 +45,7 @@ Another takeaway here is that you (mainly) gain an action point at the start of 
 
 It can also be noted that items don’t have a power or defense value associated with them. So having too many in your deck may slow down your rate of interaction within the game. I think that items will most commonly be played after an attack with ‘Go again’ in order to offset any loss of tempo from playing them. Only time will tell how delicate the balance of introducing items to your deck will be. Hopefully there will be some that prove only too tempting not to play.
 
-![crazy brew](/assets/img/preview-0/crazy-brew.png =500x)
+![crazy brew](/assets/img/preview-0/crazy-brew.png)
 
 Yeah. **That counts.**
 
