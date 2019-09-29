@@ -17,15 +17,15 @@ Yesterday I teased on social media that I have been given some cards to preview 
 
 You figured it out! Well, sort-of. Both of these two new cards are definitely **potions** the other details are open to interpretation. May you stock them on your shelves and take them into the arena, I am happy to introduce **Energy Potion** and **Timesnap Potion**!
 
-![energy potion](/assets/img/preview-0/energy-potion.png)
+![energy potion](/assets/img/preview-0/energy-potion.png =500x)
 
-![timesnap potion](/assets/img/preview-0/timesnap-potion.png)
+![timesnap potion](/assets/img/preview-0/timesnap-potion.png =500x)
 
 Items Recap
 ---
 How exciting! We’ve only seen one other potion (let alone item card) so far in the form of **Strength Potion**. This might be a good time to recap on how item cards work within a game of ‘Flesh and Blood’ and how the use of each of these potions differ.
 
-![strength potion](/assets/img/preview-0/strength-potion.png)
+![strength potion](/assets/img/preview-0/strength-potion.png =500x)
 
 With the comprehensive rules unreleased at the moment all we have to go by is the **Hero’s Handbook** as found here: [Rules and Policies][rules]. 
 
@@ -45,7 +45,7 @@ Another takeaway here is that you (mainly) gain an action point at the start of 
 
 It can also be noted that items don’t have a power or defense value associated with them. So having too many in your deck may slow down your rate of interaction within the game. I think that items will most commonly be played after an attack with ‘Go again’ in order to offset any loss of tempo from playing them. Only time will tell how delicate the balance of introducing items to your deck will be. Hopefully there will be some that prove only too tempting not to play.
 
-![crazy brew](/assets/img/preview-0/crazy-brew.png)
+![crazy brew](/assets/img/preview-0/crazy-brew.png =500x)
 
 Yeah. **That counts.**
 
