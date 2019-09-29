@@ -87,9 +87,12 @@ It has been really exciting and a pleasure to be able to be a part of the first 
 
 Finally, if you’re not familiar with anything that has been going on in this article (how did you even get here!?) or are keen to learn more about the game, I recommend checking out the [official 'Flesh and Blood' website][fabtcg] for weekdaily posts and updates.
 
+Also, check out the other cards that have been spoiled to date right [here][spoilers]!
+
 ‘Welcome to Rathe’ hits shelves on October 11 in the US/AU/NZ. Hope to hear and see you enjoying what is looking to be the new classic trading card game of our time.
 
 Cheers!
 
 [rules]: https://fabtcg.com/rules-and-policies/
 [fabtcg]: https://fabtcg.com/
+[spoilers]: https://fabtcg.com/articles/wtr-card-previews/
