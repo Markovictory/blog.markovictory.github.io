@@ -17,15 +17,15 @@ Yesterday I teased on social media that I have been given some cards to preview 
 
 You figured it out! Well, sort-of. Both of these two new cards are definitely **potions** the other details are open to interpretation. May you stock them on your shelves and take them into the arena, I am happy to introduce **Energy Potion** and **Timesnap Potion**!
 
-![energy potion](/assets/img/preview-0/energy-potion.png =500x)
+![energy potion](/assets/img/preview-0/energy-potion.png)
 
-![timesnap potion](/assets/img/preview-0/timesnap-potion.png =500x)
+![timesnap potion](/assets/img/preview-0/timesnap-potion.png)
 
 Items Recap
 ---
 How exciting! We’ve only seen one other potion (let alone item card) so far in the form of **Strength Potion**. This might be a good time to recap on how item cards work within a game of ‘Flesh and Blood’ and how the use of each of these potions differ.
 
-![strength potion](/assets/img/preview-0/strength-potion.png =500x)
+![strength potion](/assets/img/preview-0/strength-potion.png)
 
 With the comprehensive rules unreleased at the moment all we have to go by is the **Hero’s Handbook** as found here: [Rules and Policies][rules]. 
 
