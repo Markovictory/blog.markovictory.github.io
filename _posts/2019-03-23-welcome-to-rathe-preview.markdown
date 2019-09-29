@@ -63,13 +63,13 @@ So, after the conversion from your initial investment of two action points for t
 
 Now we need to know how much is two thirds of a power for your next attack worth, and similarly for resources. If we calculate the same conversion for Strength Potion we can understand that one action point is worth two power for your next attack. Therefore, equating to one third of an action point is worth the same amount of two thirds of a power. The Crazy Brew is on par with Strength Potion here. You will also find the same result with the Energy Potion.
 
-With the math out of the way, we can deduce that the average usage of the Crazy Brew will yield the same impact as a watered down (one third as effective) variant of both Energy and Strength potions combined (but also at one third of the cost in action points). No surplus is gained from the addition of the Timesnap Potion effect as mentioned before. In short, Crazy Brew is lower net impact but at a better rate (on average).
+With the math out of the way, we can deduce that the average usage of the Crazy Brew will yield the same impact as a watered down (one third as effective) variant of both Energy and Strength potions combined (but also at two thirds of the cost in action points). No surplus is gained from the addition of the Timesnap Potion effect as mentioned before. In short, Crazy Brew is lower net impact but at a better rate (on average).
 
-> Crazy Brew Average: -⅓ ap, +⅔ res, +⅔ pow
+> Crazy Brew Average: -⅔ ap, +⅔ res, +⅔ pow
 
-> Energy Average: -2 ap, +2 res
+> Energy Average: -1 ap, +2 res
 
-> Strength Average: -2 ap, +2 pow
+> Strength Average: -1 ap, +2 pow
 
 > Timesnap Average: +0 ap
 
