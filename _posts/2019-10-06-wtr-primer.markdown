@@ -178,7 +178,7 @@ It would also be great to hear any stories that some of you might have from esta
 Thanks again,
 Cheers!
 
-@markovictory
+[@markovictory][twitter]
 
 [about]: https://legendstory.com/about 
 [what-is-fab]: https://fabtcg.com/what-is-fab/
@@ -202,3 +202,4 @@ Cheers!
 [cycles]: https://fabtcg.com/articles/revealing-cycles/
 [facebook-group]: https://www.facebook.com/groups/1982287188475057
 [register]: https://fabtcg.com/accounts/register/
+[twitter]: https://twitter.com/markovictory
