@@ -152,11 +152,16 @@ If you would like a more technical look into each of the cards and their use ple
 > *Psst! While looking through the release notes I noticed the description of a card that doesn’t exist within the preview section of the website. So, I can only assume that this is one of the remaining legendary equipment cards. Have a look!*
 >
 > **Fyendal’s Spring Tunic**
-> *Generic Equipment - Chest . 
+> *Generic Equipment - Chest*
+>
 > *At the start of your turn, if Fyendal’s Spring Tunic has less than 3 energy counters, you may put an energy counter on it.*  
-> *Instant - Remove 3 energy counters from Fyendal’s Spring Tunic: Gain {r}* . 
-> *Blade Break (If your defend with Fyendal’s Spring Tunic, destroy it when the combat chain closes.)* . 
-> *Defense: 1* . 
+>
+> *Instant - Remove 3 energy counters from Fyendal’s Spring Tunic: Gain {r}*
+>
+> *Blade Break (If your defend with Fyendal’s Spring Tunic, destroy it when the combat chain closes.)*
+>
+> *Defense: 1*
+>
 >
 > **EDIT:** *This was just shared to the **[‘Flesh and Blood Fan Page’ Facebook group][facebook-group]**, well done to Chris Bewley!!!*
 
