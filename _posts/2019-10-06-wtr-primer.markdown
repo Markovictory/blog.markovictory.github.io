@@ -58,7 +58,7 @@ A quick dive into each of these points;
 
 - And now for the pièce de résistance, ‘The Calling’ is a tournament series that offers up a staggering $10,000 of local currency as a cash prize pool. It seems that the frequency of these events is about once per month. This is such a tremendous way for ‘Legend Story Studios’ to show that they are truly serious in supporting the long term stability of the game and that of the players who are looking for a competitive outlet.
 
-  The first of this series is scheduled for the 27th of October in Auckland, New Zealand with a Sydney iteration on the 9th of November. Both events are sealed deck play with top 8 draft. More details on the official announcement **[here][calling]**.
+  The first of this series is scheduled for the 27th of October in Auckland, New Zealand with a Sydney, Australia iteration on the 9th of November. Both events are sealed deck play with top 8 draft. More details on the official announcement **[here][calling]**.
   
 ![?](/assets/img/wtr-primer/calling-auckland.jpg)
 ![?](/assets/img/wtr-primer/calling-sydney.jpg)
