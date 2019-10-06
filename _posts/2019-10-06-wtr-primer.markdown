@@ -21,8 +21,7 @@ Oh, how I was ***wrong***.
 
 After a good many games (*you stop counting once you’re having too much fun*) I can confidently and safely say that my assumption is far from the truth, and that I am so glad about that fact. I would describe each game of ‘Flesh and Blood’ as a delicate and deadly dance with your opponent. Where every resource, decision, and piece of information that you can gather, make, or deduce is vital to the final outcome of who gets to be declared victorious.
 
-
-This is the type of game I’ve been searching for.
+**This is the type of game I’ve been searching for.**
 
 A game where the player who gets to make the most out of what they have will be able to influence the result in their favour.
 
@@ -41,6 +40,7 @@ The main driving forces behind this type of gameplay is directly related by the 
 The specific execution of each of these principles combined is a whole other article in of itself and I will save going into that for another time. These principles are defined [here][what-is-fab].
 
 If you haven’t already and would like to learn how to play, you can watch this six minute video found [here][learn]: . Also, if you would like to delve deeper there is also an advanced rulebook called the ‘Hero’s Handbook’ which you can find under the ‘Rules’ section [here][rules].
+
 
 Shuffling up
 ---
@@ -70,6 +70,7 @@ Numerous articles have also been written on the official website about each form
 
 I hope to find and hear about you playing and helping to build up your local community or having a crack at one of ‘The Calling’ events. You will be able to lookup any stores that might be near you on the store locator list [here][store-locator].
 
+
 Flavour country
 ---
 The game revolves around portraying yourself as one of many heroes of a subset of classes within the world of Rathe. The team at ‘Legend Story Studios’ have gone through an immense amount of effort to bring an entire universe to life through beautiful jaw-dropping artwork and storytelling full of lore around each of the heroes. 
@@ -88,7 +89,8 @@ The heroes represented within the ‘Welcome to Rathe’ expansion and their cla
 
 ![?](/assets/img/wtr-primer/heroes.png)
 
-An initial look and explanation for each of them has been well written and can be found [here][heroes] 
+An initial look and explanation for each of them has been well written and can be found [here][heroes].
+
 
 Products
 ---
@@ -121,6 +123,7 @@ The quickest way of finding a vendor to purchase ‘Welcome to Rathe’ and futu
 
 If your local games store isn’t currently supplying ‘Flesh and Blood’ I encourage that you ask them to request access to the B2B portal [here][b2b].
 
+
 Hardware
 ---
 A majority of cards from the ‘Welcome to Rathe’ expansion have been revealed to the public already through the official website, social channels, and allocated spoilers from members within the community (221/225 cards). The remaining four cards are of the highest rarity level (Legendary) with only one being officially revealed so far.
@@ -147,19 +150,20 @@ I believe that this approach to controlling design space and balance is especial
 If you would like a more technical look into each of the cards and their use please check out the ‘Release Notes’ section [here][rules].
 
 > *Psst! While looking through the release notes I noticed the description of a card that doesn’t exist within the preview section of the website. So, I can only assume that this is one of the remaining legendary equipment cards. Have a look!*
-
+>
 >> **Fyendal’s Spring Tunic**
 *Generic Equipment - Chest
 At the start of your turn, if Fyendal’s Spring Tunic has less than 3 energy counters, you may put an energy counter on it.
 Instant - Remove 3 energy counters from Fyendal’s Spring Tunic: Gain {r}
 Blade Break (If your defend with Fyendal’s Spring Tunic, destroy it when the combat chain closes.) 
 Defense: 1*
-
+>>
 >> **EDIT:** *This was just shared to the [‘Flesh and Blood Fan Page’ Facebook group][facebook-group], well done to Chris Bewley!!!*
 
 ![?](/assets/img/wtr-primer/tunic.jpeg)
 
 Moving on, it might be worth to note that ‘Flesh and Blood’ cards are of a similar enough size that they should fit all sleeves and accessories suited for ‘Magic: the Gathering’ cards and other *“standard”* size card games.
+
 
 Wrapping up
 ---
