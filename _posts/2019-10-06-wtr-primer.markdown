@@ -44,7 +44,7 @@ If you haven’t already and would like to learn how to play, you can watch this
 
 Shuffling up
 ---
-‘Legend Story Studios’ really have pulled out all the stops in their approach to organised play and support of the playerbase. ‘Flesh and Blood’ has been specifically designed to function in both constructed and limited (sealed and booster draft) formats, compared to most other games where one or the other is just tacked on (usually limited) out of convenience. Support has been shown with the announcement of events at both a frequent local level to large scale $10,000 competitive events .The avenues they’ve advertised to launch the game and inspire people to play and grow local communities is beyond ambitious and very exciting to witness! 
+‘Legend Story Studios’ really have pulled out all the stops in their approach to organised play and support of the playerbase. ‘Flesh and Blood’ has been specifically designed to function in both constructed and limited (sealed and booster draft) formats, compared to most other games where one or the other is just tacked on (usually limited) out of convenience. Support has been shown with the announcement of events at both a frequent local level to large scale $10,000 competitive events. The avenues they’ve advertised to launch the game and inspire people to play and grow local communities is beyond ambitious and very exciting to witness! 
 
 A quick dive into each of these points;
 - The game has been designed with both **Limited and Constructed** in mind. Paradigms have been set on how to differentiate gameplay between the two formats without any glaring exceptions or caveats. Case in point; **[young heroes][young]**.
@@ -68,7 +68,7 @@ Numerous articles have also been written on the official website about each form
 - [Constructed][constructed]
 - [Limited][limited]
 
-I hope to find and hear about you playing and helping to build up your local community or having a crack at one of ‘The Calling’ events. You will be able to lookup any stores that might be near you on the store locator list **[here][store-locator]**.
+I hope to find and hear about you playing and helping to build up your local community or having a crack at one of ‘The Calling’ events. You will be able to look up any stores that might be near you on the store locator list **[here][store-locator]**.
 
 
 Flavour country
@@ -107,13 +107,13 @@ The breakdown of the contents of a booster pack is:
 - 1 equipment
 - 1 premium foil
 
-Based on the odds described **[here][collectability]** of opening a card based on its rarity (and the fact that you will only need three of any non-Legendary card), in order to acquire each card for your hero of choice you would need to open just about four booster boxes (*ninety six booster packs*) on average. This excludes the opportunity of trading any premium foils that you open, or that of other heroes, and of generic cards. Currently no secondary market exists (as the product hasn’t hit the shelves yet) so it’s unknown what the average price of a particular rarity is outside of the rate of its frequency.
+Based on the odds described **[here][collectability]** of opening a card based on its rarity (and the fact that you will only need three of any non-Legendary card), in order to acquire each card for your hero of choice you would need to open just about four booster boxes (*ninety six booster packs*) on average. This excludes the opportunity of trading any premium foils that you open, or that of other heroes, and of generic cards. Currently no secondary market exists (as the product hasn’t hit the shelves yet) so it’s unknown what the average price of a particular rarity is outside of its relation of frequency to other rarities.
 
 ![?](/assets/img/wtr-primer/booster-packs.jpg)
 
 Alternatively, there are four ‘Hero’ decks which are primarily exist for being able to jump right into the game with a low investment of time and money, securing the character that you’re interested in playing. They are described as ready-to-play 60 card constructed decks and have an MSRP of **$10.99 USD / $17.99 AUD / $19.99 NZD**.
 
-The specific contents of each deck hasn’t yet been officially released, but it looks like each deck contains approximately thirteen rare cards based on what’s been shared around on social media. That amount of rares is comparable to opening about seven booster packs (taking the exclusion of higher rarities into account). That’s a great outlook on dollar value to begin with, also, you aren’t guaranteed to be able to build a cohesive deck with the hero of your choice if you opt for the comparable price of four booster packs. These decks also serve as a starting template of how to play and build a deck around each hero. Personally, I’m excited to analyse each of them to understand how the developers intend each hero to be played to avoid any pitfalls when to comes to my own deck-building adventures.
+The specific contents of each deck hasn’t yet been officially released, but it looks like each deck contains approximately thirteen rare cards based on what’s been shared around on social media. That amount of rares is similar to opening about seven booster packs (taking the exclusion of higher rarities into account). That’s a great outlook on dollar value to begin with, also, you aren’t guaranteed to be able to build a cohesive deck with the hero of your choice if you opt for the comparable price of four booster packs. These decks also serve as a starting template of how to play and build a deck around each hero. Personally, I’m excited to analyse each of them to understand how the developers intend each hero to be played to avoid any pitfalls when it comes to my own deck-building adventures.
 
 ![?](/assets/img/wtr-primer/hero-decks.jpg)
 
@@ -163,7 +163,7 @@ If you would like a more technical look into each of the cards and their use ple
 > *Defense: 1*
 >
 >
-> **EDIT:** *This was just shared to the **[‘Flesh and Blood Fan Page’ Facebook group][facebook-group]**, well done to Chris Bewley!!!*
+> **EDIT:** *This was just shared to the **[‘Flesh and Blood Fan Page’ Facebook group][facebook-group]**, what an exciting way to discover some of the most rare cards in the game to date!!!*
 
 ![?](/assets/img/wtr-primer/tunic.jpeg)
 
