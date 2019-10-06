@@ -183,7 +183,7 @@ It would also be great to hear any stories that some of you might have from esta
 Thanks again,
 Cheers!
 
-***[@markovictory][twitter]***
+**[@markovictory][twitter]**
 
 [about]: https://legendstory.com/about 
 [what-is-fab]: https://fabtcg.com/what-is-fab/
