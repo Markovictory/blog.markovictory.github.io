@@ -11,7 +11,7 @@ With the imminent release of ‘Welcome to Rathe’, the debut expansion of the 
 
 As it stands there is no existence of a secondary market at all. What few listings that have been made on [marketplace groups][marketplace] have all excluded any notion of price. In fact, more posts have been made asking the wider community what they thought their card was worth than actual intent to sell. This is understandable though, people do not want to make an ill informed decision out of the fear of regret. We are yet to know what the secondary market values the worth of a typical Legendary equipment. Is it $20? $50? $100? $200!? Without a basis of a secondary market sellers will over inflate their prices due to risk aversion (and current lack of supply but that’s another point), while buyers will be unwilling to pay as much due to skepticism and for their own risk aversion due to lack of ensured stability or history of trades/sales.
 
-![?](/assets/img/wtr-primer/shivan-dragon.jpeg)
+![?](/assets/img/wtr-trading/market-question.png)
 
 It is imperative that a secondary market is established. Without one then there is no basis on how to judge a trade as “fair” or to be generally accepted by the wider community. Today the goal is to be able to provide a baseline backed with logic and math to provide answers to questions like; “How many Rares is a Majestic worth?”, “Is a Cold Foil equipment rarer than my Super Rare?”, etc.
 
@@ -28,7 +28,7 @@ The boring stuff
 ---
 My method for determining the relationship between cards of different rarities involves comparing how many booster packs would need to be opened to obtain the desired amount of both in question. The desired amount can be defined as the amount needed for constructed play, being three for each non-equipment and one for each equipment. This means one common is equivalent to any other common as it takes the same amount of booster packs to open the desired amount for each. I will also not be taking the probability of opening duplicates into account either. Based on my prior expression, I am going to assume that any duplicate that is opened can instantly and easily be traded for another card of the same rarity that has not been opened as that is pre-determined to be fair under these constraints.
 
-![?](/assets/img/wtr-primer/shivan-dragon.jpeg)
+![?](/assets/img/wtr-primer/booster-packs.jpg)
 
 Before getting down to business I should recap on the contents of a booster pack and each rarity. The configuration of a ‘Welcome to Rathe’ booster pack is:
 
@@ -60,7 +60,7 @@ Ten unique majestics at a drop rate of one every twelve packs. The desired amoun
 *Equipment*:
 One per booster with twelve unique cards, but only need a maximum of one each so the desired amount remains at twelve. Twelve boosters.
 
-![?](/assets/img/wtr-primer/shivan-dragon.jpeg)
+![?](/assets/img/wtr-trading/banner.jpg)
 
 **Premium**:
 Twenty three out of twenty four booster packs contains a premium rainbow version of a common, rare, super rare or majestic. The twenty fourth booster pack contains either a cold-foil equipment or legendary. 
@@ -95,9 +95,8 @@ Numbers that mean something
 
 Below I’m going to translate the results that were just gathered and compile them into a lookup table so that we can understand the relation between any given rarities with ease.
 
-![?](/assets/img/wtr-primer/shivan-dragon.jpeg)
-
-![?](/assets/img/wtr-primer/shivan-dragon.jpeg)
+![?](/assets/img/wtr-trading/tradetable.png)
+![?](/assets/img/wtr-trading/key.png)
 
 Let me remind you that this table is calculated from the perspective of a collector where the objective is to obtain the desired amount of each type of card. Even though a Legendary card trades for less than a Premium Foil Rare, it does not indicate that a Legendary occurs more often than a Premium Foil Rare. What it indicates is that you will be completing your desired amount of Legendary cards quicker than that of all of the Premium Foil Rare cards. If your objective is not to collect three of every Premium Foil Rare card then the Legendary card is much more valuable. Perhaps when there is more data to determine what cards are the “chase” cards then this table might be able to be updated to suit that.
 
@@ -129,7 +128,7 @@ I hope that this brief analysis has shed some light and perhaps establish some b
 
 I wish you all the very best and hope that you are able to open (or trade) for the cards that you desire to play with most as we celebrate the release of ‘Welcome to Rathe’! Many players (like Kaden below) will have to make a tough and defining decision that’s reminiscent of choosing you first starter Pokemon.
 
-![?](/assets/img/wtr-primer/shivan-dragon.jpeg)
+![?](/assets/img/wtr-trading/kaden.jpg)
 
 I’m beyond excited for the release and hope you all have a great experience smashing, pummelling, and head jabbing each other for what may be the first time of many,
 
