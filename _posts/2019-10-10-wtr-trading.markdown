@@ -117,14 +117,19 @@ Fair Trade Examples
 I’m going to display what I believe might be some common trade scenarios that I believe to be “fair” for a collector in hopes it is more accessible and memorable that the lookup table.
 
 - A random Majestic for a specific Super Rare and Rare
+![?](/assets/img/wtr-trading/trade0.png)
 
 - A random Cold Foil Equipment for a specific Premium Foil Common
+![?](/assets/img/wtr-trading/trade1.png)
 
 - Three specific Rares for a random Super Rare
+![?](/assets/img/wtr-trading/trade2.png)
 
 - A random Rare for three specific Commons
+![?](/assets/img/wtr-trading/trade3.png)
 
 - A Legendary you don’t want for a Legendary you do
+![?](/assets/img/wtr-trading/trade4.png)
 
 > Due to the initial scarcity and low supply of Legendary cards I personally think that it will be a long time if ever that there are enough duplicates and spares running around to justify the results of the trade table. I think it would be best to use your own discretion on how to trade the difficult to acquire Legendary cards. With the supply being low you could get away with trading them away more aggressively if you plan to gather/open enough product to warrant expecting them again.
 
