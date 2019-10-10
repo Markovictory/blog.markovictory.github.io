@@ -35,67 +35,74 @@ Before getting down to business I should recap on the contents of a booster pack
 (All details derived from the ofccial 'Flesh and Blood' website [here][collectability])
 
 > A) 1 token
+
 > B) 11 commons
+
 > C) 1 rare
+
 > D) 1 rare / super rare / majestic
+
 > E) 1 equipment
+
 > F) 1 premium foil
 
 I will refer to each section of the booster pack to correlate with the prefix character, i.e. slot A correlated to the one token in each booster pack, and slot B the eleven commons, etc.
 
 For what it’s worth I think that I will skip over tokens as they are do not fit the *“desired”* metric or explicitly required for constructed play.
 
-*Common*:
+**Common**:
 There are one hundred and twenty unique commons within the expansion, so we will need to obtain three hundred and sixty commons to achieve the desired amount. This will take at least thirty three booster packs to be opened (not taking any premium foil commons being opened as I am categorising them as a separate rarity [this assumption can be made for the remaining categories too]).
 
-*Rare*:
+**Rare**:
 There are forty eight unique rares, making the desired amount of one hundred and forty four. Slot D also produces a rare seventy five percent of the time. At least eighty three booster packs will need to be opened.
 
-*Super Rare*:
+**Super Rare**:
 A total of fifteen unique super rares, with one appearing every six booster packs, meaning we would need to open two hundred and seventy booster packs to reach the desired amount. 
 
-*Majestic*:
+**Majestic**:
 Ten unique majestics at a drop rate of one every twelve packs. The desired amount of thirty will be achieved from three hundred and sixty booster packs.
 
-*Equipment*:
+**Equipment**:
 One per booster with twelve unique cards, but only need a maximum of one each so the desired amount remains at twelve. Twelve boosters.
 
-![?](/assets/img/wtr-trading/banner.jpg)
+![?](/assets/img/wtr-trading/solana.png)
 
-**Premium**:
+**PREMIUM**
+
 Twenty three out of twenty four booster packs contains a premium rainbow version of a common, rare, super rare or majestic. The twenty fourth booster pack contains either a cold-foil equipment or legendary. 
 
 The calculation for the non-equipment premium foils is based on the same drop rate of their slots in a regular booster pack (slots B, C, and D) but in relation to the slot F, i.e. every ninety six booster packs we can expect one legendary cold-foil, three cold-foil equipment, and ninety two rainbow foils. So every ninety six booster packs we will be able to construct seven and one thirteenth iterations of slots B, C, and D.
 
 I will be repeating this calculation for each below so I’ll cut the chase and skip straight to the minimum number of booster packs needed to be opened to achieve the desired amount.
 
-*Common*: 
+**Common**: 
 Four hundred and forty eight booster packs to achieve the desired amount.
 
-*Rare*: 
+**Rare**: 
 One thousand one hundred and twenty six booster packs.
 
-*Super Rare*: 
+**Super Rare**: 
 Three thousand six hundred and sixty three booster packs.
 
-*Majestic*:
+**Majestic**:
 Four thousand eight hundred and eighty four booster packs.
 
 These last two are pretty straight forward since their odds are explicitly given to us.
 
-*Equipment*: 
+**Equipment**: 
 Three hundred and eight four booster packs.
 
-*Legendary*: 
+**Legendary**: 
 Four hundred and eighty booster packs.
 
+![?](/assets/img/wtr-trading/banner.jpg)
 
 Numbers that mean something
 ---
 
 Below I’m going to translate the results that were just gathered and compile them into a lookup table so that we can understand the relation between any given rarities with ease.
 
-![?](/assets/img/wtr-trading/tradetable.png)
+![?](/assets/img/wtr-trading/trade-table.png)
 ![?](/assets/img/wtr-trading/key.png)
 
 Let me remind you that this table is calculated from the perspective of a collector where the objective is to obtain the desired amount of each type of card. Even though a Legendary card trades for less than a Premium Foil Rare, it does not indicate that a Legendary occurs more often than a Premium Foil Rare. What it indicates is that you will be completing your desired amount of Legendary cards quicker than that of all of the Premium Foil Rare cards. If your objective is not to collect three of every Premium Foil Rare card then the Legendary card is much more valuable. Perhaps when there is more data to determine what cards are the “chase” cards then this table might be able to be updated to suit that.
