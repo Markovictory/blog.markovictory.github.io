@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Calling Auckland 2020 Champion Deck Tech"
-date:   2019-02-18 16:00:00 +0530
+date:   2020-02-18 16:00:00 +0530
 categories: flesh-and-blood the-calling deck-tech
 ---
 
