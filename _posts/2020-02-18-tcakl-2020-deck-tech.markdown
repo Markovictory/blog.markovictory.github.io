@@ -14,42 +14,42 @@ This previous weekend I was extremely fortunate enough to both attend, compete, 
 > Katsu the Wanderer
 
 > ***// Equipment***
-> 2 Harmonized Kodachi,
-> 1 Mask of Momentum,
-> 1 Fyendal's Spring Tunic,
-> 1 Breaking Scales,
-> 1 Snapdragon Scalers,
+- 2 Harmonized Kodachi
+- 1 Mask of Momentum
+- 1 Fyendal's Spring Tunic
+- 1 Breaking Scales
+- 1 Snapdragon Scalers
 
 > ***// Resource (Blue)***
-> 3 Rising Knee Thrust,
-> 3 Whelming Gust Wave,
-> 3 Fluster Fist,
-> 3 Lord of Wind,
-> 3 Wounding Blow,
-> 1 Head Jab
+- 3 Rising Knee Thrust
+- 3 Whelming Gust Wave
+- 3 Fluster Fist
+- 3 Lord of Wind
+- 3 Wounding Blow
+- 1 Head Jab
 
 > ***// Defense***
-> 9 Unmovable,
-> 9 Flic Flak,
-> 6 Sink Below (Not Blue),
-> 3 Springboard Somersault
+- 9 Unmovable
+- 9 Flic Flak
+- 6 Sink Below (Not Blue)
+- 3 Springboard Somersault
 
 > ***// Value***
-> 3 Tome of Fyendal,
-> 3 Timesnap Potion,
-> 3 Drone of Brutality (Red),
-> 3 Sigil of Solace (Red),
-> 3 Remembrance
+- 3 Tome of Fyendal
+- 3 Timesnap Potion
+- 3 Drone of Brutality (Red)
+- 3 Sigil of Solace (Red)
+- 3 Remembrance
 
 > ***// Damage (Red)***
-> 3 Snatch,
-> 3 Razor Reflex,
-> 3 Enlightened Strike,
-> 3 Fluster Fist,
-> 1 Pounding Gale,
-> 1 Open the Centre,
-> 1 Mugenshi: RELEASE,
-> 1 Hurricane Technique
+- 3 Snatch
+- 3 Razor Reflex
+- 3 Enlightened Strike
+- 3 Fluster Fist
+- 1 Pounding Gale
+- 1 Open the Centre
+- 1 Mugenshi: RELEASE
+- 1 Hurricane Technique
 
 The official link to the decklist where you can browse the images for each card can be found [HERE][deck]
 
