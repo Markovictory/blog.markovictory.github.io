@@ -51,7 +51,7 @@ This previous weekend I was extremely fortunate enough to both attend, compete, 
 > 1 Mugenshi: RELEASE,
 > 1 Hurricane Technique
 
-The official link to the decklist where you can browse the images for each card can be found [HERE][https://fabtcg.com/decklists/sasha-markovic-ninja-deck-07022020/]
+The official link to the decklist where you can browse the images for each card can be found [HERE][deck]
 
 Breakdown
 ---
@@ -136,7 +136,7 @@ In all seriousness, Ninja was chosen to be the class to support the value packag
 
 Brendan and I had a very rigorous schedule and approach to testing leading up to the event. Recording every piece of data we could from games played, analysing every decklist from Road to Calling events, constantly challenging every assumption to avoid what felt like the inevitability of tunnel vision and bad habits. I really have to commend Brendan for his dedication in preparing for this event, due to the timezone difference between us, the only opportunity to communicate effectively or play games through sceptical and unreliable card game engines/webcams pointing at our desks was in the early wee hours of the morning and lunch breaks during workdays. Funnily enough, this trend continued while we were both in Auckland a week ahead of the event in order to test in person for the first time together, just when we thought the four a.m wake up calls were over, haha. Our bodies were conditioned for this pattern by this point, I suppose. It was such a shame that we paired against each other in round four. 😥
 
-[?](/assets/img/tcakl-2020-deck-tech/auckland-moon.jpg)
+![?](/assets/img/tcakl-2020-deck-tech/auckland-moon.jpg)
 *A snapshot of the moon shining through the clouds over the Auckland CBD as I am making the walk over to Brendan’s apartment to test very early in the morning.*
 
 Stories
@@ -146,7 +146,7 @@ Here are a couple of tales and recollections from across both the preparation an
 **Namesake**
 During our testing period, while using an online piece of software to simulate games we would periodically observe games that were being played by others as a break. There was this one game in particular that stood out. A pair of budding young game designers had uploaded a copy of their own game that featured this card:
 
-[?](/assets/img/tcakl-2020-deck-tech/spaghetti-tornado.png)
+![?](/assets/img/tcakl-2020-deck-tech/spaghetti-tornado.png)
 
 The game that they were playing was eerily like an oversimplified version of 'Flesh and Blood' and the most powerful card was easily the aforementioned ‘Spaghetti Tornado’ which reminded us of **Tome of Fyendal**. From then on out we referred to the deck as such.
 
@@ -161,18 +161,21 @@ How hilarious that we would pair in round four only for the super-secret technol
 
 He was, unfortunately, one turn away from deploying his threat when the game ended slightly prematurely to a long chain of attacks from myself thanks to both **Snapdragon Scalers** and **Timesnap Potion**. His unique card would have won him the game no question. If anyone can guess the specific card Brendan chose to add into his deck to combat the mirror match gets a special prize.
 
-[?](/assets/img/tcakl-2020-deck-tech/lifepad.jpg)
+![?](/assets/img/tcakl-2020-deck-tech/lifepad.jpg)
 *Lifepad from the game against Brendan in round four of The Calling.*
 
 Retrospective
 ---
 Wow, what a journey it has been. Having played each of The Calling events so far, this most recent event has been the most hyped, difficult, and importantly, fun one so far! It was an amazing event to be a part of, seeing players who haven’t played since the last Calling in Auckland late October last year vying to redeem themselves or to prove and hold true to their previous performance (Jasin Long 100% Top 8 rate 😍), as well as those who travelled from all corners of the globe becoming new friends, and of course, the tremendous staff of Legend Story Studios who orchestrated our gathering in the flesh and blood! A massive thank you to everyone who attended!!! I think it was evident to all those in attendance that we are on the frontier of something truly special and unique. I can’t wait for the next one, let alone Arcane Rising which is just a short month away! I hope to be able to talk about the highly anticipated follow up expansion sooner rather than later. 😁
 
-[?](/assets/img/tcakl-2020-deck-tech/auckland-fly.jpg)
+![?](/assets/img/tcakl-2020-deck-tech/auckland-fly.jpg)
 *Flying out of Auckland on a picture-perfect day.*
 
 Credit
 --
 This deck was created by Brendan Patrick and myself throughout our many extensive testing sessions leading up to the main event. It would be a hot pile of garbage without Brendan’s invaluable input, dedication to testing sessions, and patience of always piloting the “victim” decks. From the very outset of our testing regime he said, “I’ll match your grind, no matter what”, and I can’t respect that dedication and devotion enough. I’m incredibly overjoyed that I was able to bring the trophy home on behalf of both of our efforts. Here’s to the next one!
 
-[?](/assets/img/tcakl-2020-deck-tech/sasha-brendan.png)
+![?](/assets/img/tcakl-2020-deck-tech/sasha-brendan.png)
+
+
+[deck]: https://fabtcg.com/decklists/sasha-markovic-ninja-deck-07022020/
