@@ -7,7 +7,7 @@ categories: flesh-and-blood the-calling deck-tech
 
 The Deck
 ---
-This previous weekend I was extremely fortunate enough to both attend, compete, and eventually take down the Calling Auckland 2020. I only say ‘eventually’ because of the strategy behind the deck that I had chosen to play. If you haven’t seen it already, here it is:
+This previous weekend I was extremely fortunate enough to attend, compete, and eventually take down the Calling Auckland 2020. I only say ‘eventually’ because of the strategy behind the deck that I had chosen to play. If you haven’t seen it already, here it is:
 
 **Spaghetti Tornado** 🍝🌪️
 
@@ -55,7 +55,7 @@ The official link to the decklist where you can browse the images for each card 
 
 Breakdown
 ---
-This isn’t your typical Ninja deck. It doesn’t focus on the popular and default strategy of playing the **Lord of Wind** combo-line along with another of personal preference (or all three!), trying to set up a blowout turn that will win the game all the while pressuring the opponent to block more often than not due to the threat of **Mask of Momentum** triggers. Nope. None of that. This deck was built to griiiiiiiiiind.
+This isn’t your typical Ninja deck. It doesn’t focus on the popular and default strategy of playing the **Lord of Wind** combo-line along with another of personal preference (or all three!), trying to set up a blowout turn that will win the game all the while pressuring the opponent to block more often than not due to the threat of **Mask of Momentum** triggers. Nope. None of that. This deck was built to griiiiiiiiiind. (Close to twelve hours of constant gameplay!)
 
 The primary objective of the deck is to expend all of the opponent’s impactful cards until the game is in a state where you are able to block all of their attacks without taking any damage indefinitely thanks to the unique effect of **Drone of Brutality**, the key card of the deck that makes everything work.
 
