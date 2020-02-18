@@ -107,7 +107,7 @@ Against Brute, I would exclude the following cards:
 Against Guardian, I would not exclude any cards.
 
 **Ninja -**
- My testing partner Brendan and I religiously played the standard Ninja mirror match at the beginning of our preparation for the event as we were both drawn to the deck and thought it would be the matchup with the most intricate gameplay. As a result of the countless games we were well versed in know how to attack the deck and what cards/scenarios were truly threatening. Any deck that has a full set of **Flic Flak** and the appropriate number of ‘combo’ cards that can be paired with them should have a relatively easy time fending off Ninja attacks.
+ My testing partner Brendan and I religiously played the standard Ninja mirror match at the beginning of our preparation for the event as we were both drawn to the deck and thought it would be the matchup with the most intricate gameplay. As a result of the countless games we were well versed in knowing how to attack the deck and what cards/scenarios were truly threatening. Any deck that has a full set of **Flic Flak** and the appropriate number of ‘combo’ cards that can be paired with them should have a relatively easy time fending off Ninja attacks.
 
 Against Ninja, I would exclude the following cards:
 - 7 Unmovable (Leaving two Red)
@@ -120,12 +120,12 @@ Against Ninja, I would exclude the following cards:
 
 Against Warrior, I would exclude the following cards:
 - 2 Remembrance
-- 2 Timesnap Poition
+- 2 Timesnap Potion
 - 1 Head Jab
 
 Preparation
 ---
-From the very beginning of my podcast series ‘Fyendal’s Podcast’, I’ve touted that I would opt to play Ninja for the first constructed Calling event. I don’t have any clear cut reason why other than it was the class I gravitated towards the most and enjoyed playing. However, I did think there was a slight hint from the developers that Ninja would be the boogeyman of Welcome to Rathe constructed due to **Mask of Momentum** being the only Legendary equipment with Blade Break instead of Battleworn, haha. Instead, I chose to play a glorified **Ironrot Helm** in a defensive deck. What a double down.
+From the very beginning of my podcast series, ‘Fyendal’s Podcast’, I’ve touted that I would opt to play Ninja for the first constructed Calling event. I don’t have any clear cut reason why other than it was the class I gravitated towards the most and enjoyed playing. However, I did think there was a slight hint from the developers that Ninja would be the boogeyman of Welcome to Rathe constructed due to **Mask of Momentum** being the only Legendary equipment with Blade Break instead of Battleworn, haha. Instead, I chose to play a glorified **Ironrot Helm** in a defensive deck. What a double down.
 
 ![?](/assets/img/wtr/mask-of-momentum.png)
 ![?](/assets/img/wtr/ironrot-helm.png)
@@ -143,15 +143,15 @@ Stories
 ---
 Here are a couple of tales and recollections from across both the preparation and during the event.
 
-**Namesake**
-During our testing period, while using an online piece of software to simulate games we would periodically observe games that were being played by others as a break. There was this one game in particular that stood out. A pair of budding young game designers had uploaded a copy of their own game that featured this card:
+**Namesake -**
+ During our testing period, while using an online piece of software to simulate games we would periodically observe games that were being played by others as a break. There was this one game in particular that stood out. A pair of budding young game designers had uploaded a copy of their own game that featured this card:
 
 ![?](/assets/img/tcakl-2020-deck-tech/spaghetti-tornado.png)
 
 The game that they were playing was eerily like an oversimplified version of 'Flesh and Blood' and the most powerful card was easily the aforementioned ‘Spaghetti Tornado’ which reminded us of **Tome of Fyendal**. From then on out we referred to the deck as such.
 
-**Mirror Breaker**
-(Preface) The evening before The Calling a bunch of friends were out to dinner at a Mexican joint near Sky Tower, starving after just finished playing the Battle Hardened event (in which Brendan and I played a standard Ninja list as to not raise any suspicions for when we bring the real deck the following day). Which included fellow Top 8 competitor Nick Butcher, esteemed World Premiere Champion Luke Badger, and a bunch of other people worthy of note but not my recollection. Like Andy, Anthony, Laurel, Brendan, Mimi, and not Jason Chung.
+**Mirror Breaker -**
+ *(Preface)* The evening before The Calling a bunch of friends were out to dinner at a Mexican joint near Sky Tower, starving after just finished playing the Battle Hardened event (in which Brendan and I played a standard Ninja list as to not raise any suspicions for when we bring the real deck the following day). Which included fellow Top 8 competitor Nick Butcher, esteemed World Premiere Champion Luke Badger, and a bunch of other people worthy of note but not my recollection. Like Andy, Anthony, Laurel, Brendan, Mimi, and not Jason Chung.
 
 Partway through the dinner, my brain ticked over and I rushed to notify Brendan that I wanted to change eighteen(!) cards in the deck. His assurance and lack of hesitance at such a drastic last-minute notion which is understandable in card game history as regrettable and ill-advised were surprising but welcome to my frantic and sleep-deprived mindset. So, we throw some cash on the table, leave our meals, and hustle it over back to the apartment, make the amendments, plan the pre-game procedure for each matchup and then conclude; “This is it… bar these three cards which are fine, but could be better suited.”. So, before it gets too late, we lock in the seventy-seven cards and leave the tentative three to our own choices as we felt like they were non-critical. The sleep would be more valuable at this point than another long night irking out the most optimal decision. And slept well we did. Kind of.
 
