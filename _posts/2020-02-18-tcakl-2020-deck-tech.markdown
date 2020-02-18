@@ -91,8 +91,8 @@ The way to lose with this deck naturally is for the opponent to continually make
 
 Matchups
 ---
-**Brute**
-This is the matchup that I feared the most, despite **Ironsong Determination** being the most feared card. Brute is built by design to beat up on decks that stock up on defense reactions. The only real hope to win here is to play like a bad version of a regular Ninja deck and do more damage than they are dealing to you, occasionally taking turns off to cash in your value cards. Depending on the patience of your Brute opponent it can pay dividends to always have a zero cost defense reaction in your arsenal so that you may block effectively on a turn where they play up to three **Barraging Beatdown**. I felt very fortunate to have dodged this matchup throughout the event, outside of Isaac Olssen in the first round(!) He did not expect this type of strategy from a Ninja opponent and did not prepare his deck appropriately in the pre-game procedure. 
+**Brute -**
+ This is the matchup that I feared the most, despite **Ironsong Determination** being the most feared card. Brute is built by design to beat up on decks that stock up on defense reactions. The only real hope to win here is to play like a bad version of a regular Ninja deck and do more damage than they are dealing to you, occasionally taking turns off to cash in your value cards. Depending on the patience of your Brute opponent it can pay dividends to always have a zero cost defense reaction in your arsenal so that you may block effectively on a turn where they play up to three **Barraging Beatdown**. I felt very fortunate to have dodged this matchup throughout the event, outside of Isaac Olssen in the first round(!) He did not expect this type of strategy from a Ninja opponent and did not prepare his deck appropriately in the pre-game procedure. 
 
 This is another huge edge to bringing an unknown archetype to an event like this, the possibility of getting free/easy wins increases due to players being unfamiliar or unprepared. This is accentuated even more in ‘Flesh and Blood’ as so far a class has only ever been associated with one archetype. Hopefully, this event changes that for at least Ninja in the future and people might think twice on how to prepare their deck in the pre-game procedure.
 
@@ -101,13 +101,13 @@ Against Brute, I would exclude the following cards:
 - 3 Timesnap Potion
 - 2 Remembrance
 
-**Guardian**
-A matchup that I honestly didn’t expect to be high in numbers and felt like I would only face if it were in the hands of Cayle McCreath. Any Ninja veteran could tell you that this matchup is quite favourable if the Guardian isn’t playing **Forged for War**. That doesn’t change much here. You won’t be able to pressure them as often as a regular Ninja so Crippling Crush and friends will more often come down against you, but you have access to a plethora of defense reactions to dispatch them without consequence. You’re aiming to chip away at their life total with both Kodachi’s every single turn possible. Death of a thousand cuts. You won’t be able to Drone them out effectively as they can use the Bravo hero ability to give their late-game weaker blue cards dominate invalidating your strategy. Because of this, you will need to prepare for a burst finish with Snapdragon Scalers and/or Timesnap Potion.
+**Guardian -**
+ A matchup that I honestly didn’t expect to be high in numbers and felt like I would only face if it were in the hands of Cayle McCreath. Any Ninja veteran could tell you that this matchup is quite favourable if the Guardian isn’t playing **Forged for War**. That doesn’t change much here. You won’t be able to pressure them as often as a regular Ninja so Crippling Crush and friends will more often come down against you, but you have access to a plethora of defense reactions to dispatch them without consequence. You’re aiming to chip away at their life total with both Kodachi’s every single turn possible. Death of a thousand cuts. You won’t be able to Drone them out effectively as they can use the Bravo hero ability to give their late-game weaker blue cards dominate invalidating your strategy. Because of this, you will need to prepare for a burst finish with **Snapdragon Scalers** and/or **Timesnap Potion**.
 
 Against Guardian, I would not exclude any cards.
 
-**Ninja**
-My testing partner Brendan and I religiously played the standard Ninja mirror match at the beginning of our preparation for the event as we were both drawn to the deck and thought it would be the matchup with the most intricate gameplay. As a result of the countless games we were well versed in know how to attack the deck and what cards/scenarios were truly threatening. Any deck that has a full set of **Flic Flak** and the appropriate number of ‘combo’ cards that can be paired with them should have a relatively easy time fending off Ninja attacks.
+**Ninja -**
+ My testing partner Brendan and I religiously played the standard Ninja mirror match at the beginning of our preparation for the event as we were both drawn to the deck and thought it would be the matchup with the most intricate gameplay. As a result of the countless games we were well versed in know how to attack the deck and what cards/scenarios were truly threatening. Any deck that has a full set of **Flic Flak** and the appropriate number of ‘combo’ cards that can be paired with them should have a relatively easy time fending off Ninja attacks.
 
 Against Ninja, I would exclude the following cards:
 - 7 Unmovable (Leaving two Red)
@@ -115,8 +115,8 @@ Against Ninja, I would exclude the following cards:
 - 3 Timesnap Potion
 - 1 Head Jab
 
-**Warrior**
-Coming into the event I expected Warrior to be the most popular and successful class. So, at the very least I felt that I wanted to play a deck that had a favourable Dorinthea matchup. The standard Ninja deck has A LOT of cards that block for two and this was not an overly attractive trait for that deck. Brendan and I jammed more games against Warrior than any other class by far. Even with a version of Warrior tailored to combat this deck we felt like we knew enough play patterns to balance the matchup out. Throughout the event, no Warrior deck was configured to beat the deck and most matches felt close to a bye (outside of punting on camera in Round 2 haha).
+**Warrior -**
+ Coming into the event I expected Warrior to be the most popular and successful class. So, at the very least I felt that I wanted to play a deck that had a favourable Dorinthea matchup. The standard Ninja deck has A LOT of cards that block for two and this was not an overly attractive trait for that deck. Brendan and I jammed more games against Warrior than any other class by far. Even with a version of Warrior tailored to combat this deck we felt like we knew enough play patterns to balance the matchup out. Throughout the event, no Warrior deck was configured to beat the deck and most matches felt close to a bye (outside of punting on camera in Round 2 haha).
 
 Against Warrior, I would exclude the following cards:
 - 2 Remembrance
