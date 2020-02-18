@@ -14,10 +14,10 @@ This previous weekend I was extremely fortunate enough to both attend, compete, 
 > Katsu the Wanderer
 
 > ***// Equipment***
-> 2 Harmonized Kodachi
-> 1 Mask of Momentum
-> 1 Fyendal's Spring Tunic
-> 1 Breaking Scales
+>...2 Harmonized Kodachi..
+>...1 Mask of Momentum..
+>  1 Fyendal's Spring Tunic. 
+>.  1 Breaking Scales. 
 > 1 Snapdragon Scalers
 
 > ***// Resource (Blue)***
