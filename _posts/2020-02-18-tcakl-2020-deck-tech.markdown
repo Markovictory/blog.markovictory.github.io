@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Calling Auckland 2020 Champion Deck Tech - Katsu Drone Control, a.k.a 'Spaghetti Tornado'"
+title:  "The Calling Auckland 2020 Champion Deck Tech"
 date:   2019-02-18 16:00:00 +0530
 categories: flesh-and-blood the-calling deck-tech
 ---
@@ -11,45 +11,45 @@ This previous weekend I was extremely fortunate enough to both attend, compete, 
 
 *Spaghetti Tornado* 🍝🌪️
 
-Katsu the Wanderer
+> Katsu the Wanderer
 
-***// Equipment***
-2 Harmonized Kodachi
-1 Mask of Momentum
-1 Fyendal's Spring Tunic
-1 Breaking Scales
-1 Snapdragon Scalers
+> ***// Equipment***
+> 2 Harmonized Kodachi
+> 1 Mask of Momentum
+> 1 Fyendal's Spring Tunic
+> 1 Breaking Scales
+> 1 Snapdragon Scalers
 
-***// Resource (Blue)***
-3 Rising Knee Thrust
-3 Whelming Gust Wave
-3 Fluster Fist
-3 Lord of Wind
-3 Wounding Blow
-1 Head Jab
+> ***// Resource (Blue)***
+> 3 Rising Knee Thrust
+> 3 Whelming Gust Wave
+> 3 Fluster Fist
+> 3 Lord of Wind
+> 3 Wounding Blow
+> 1 Head Jab
 
-***// Defense***
-9 Unmovable
-9 Flic Flak
-6 Sink Below (Not Blue)
-3 Springboard Somersault
+> ***// Defense***
+> 9 Unmovable
+> 9 Flic Flak
+> 6 Sink Below (Not Blue)
+> 3 Springboard Somersault
 
-***// Value***
-3 Tome of Fyendal
-3 Timesnap Potion
-3 Drone of Brutality (Red)
-3 Sigil of Solace (Red)
-3 Remembrance
+> ***// Value***
+> 3 Tome of Fyendal
+> 3 Timesnap Potion
+> 3 Drone of Brutality (Red)
+> 3 Sigil of Solace (Red)
+> 3 Remembrance
 
-***// Damage (Red)***
-3 Snatch
-3 Razor Reflex
-3 Enlightened Strike
-3 Fluster Fist 
-1 Pounding Gale
-1 Open the Centre
-1 Mugenshi: RELEASE
-1 Hurricane Technique
+> ***// Damage (Red)***
+> 3 Snatch
+> 3 Razor Reflex
+> 3 Enlightened Strike
+> 3 Fluster Fist 
+> 1 Pounding Gale
+> 1 Open the Centre
+> 1 Mugenshi: RELEASE
+> 1 Hurricane Technique
 
 The official link to the decklist where you can browse the images for each card can be found here: https://fabtcg.com/decklists/sasha-markovic-ninja-deck-07022020/
 
@@ -59,7 +59,7 @@ This isn’t your typical Ninja deck. It doesn’t focus on the popular and defa
 
 The primary objective of the deck is to expend all of the opponent’s impactful cards until the game is in a state where you are able to block all of their attacks without taking any damage indefinitely thanks to the unique effect of *Drone of Brutality*, the key card of the deck that makes everything work.
 
-![?](/assets/img/wtr/drone-of-brutality-red.png)
+![?](/assets/img/wtr/drone-of-brutality1.png)
 
 The deck features a very high density of defense reactions that will help you prevent as much damage as possible in a versatile way. Putting your whole hand to defend every turn isn’t as effective as a smart opponent could wisen up and save their attack reactions until the very end of the game where the average blocking value of a hand is much lower thanks to Drone defending for two rather than the status quo of three. In my eyes, if a card blocks for two or less it must be exceptional or crucial to your decks game plan. Whereas when you have access to defense reactions you will be able to dynamically block as much as needed, saving your cards to last longer and to be timed against more crucial cards. For me, the boogeyman for the event that I prepared for was *Ironsong Determination*. It is advisable that you’re prepared to defend against that card, it is easily the card that I lost the most games to in testing.
 
@@ -84,10 +84,10 @@ The chosen resource cards also unlocked a rather important aggressive capability
 
 It is very advantageous for this type of deck to have their opponent block with cards from their hand, as you will likely be blocking with fewer than four cards the following turn, allowing you to utilise your value cards. This is the spot where you want to be, blocking with three cards per turn and having one to play with. Stabbing with Kodachi’s if it is a ‘resource’, setting up an attacking turn if it is a ‘damage’ card, or cashing in a ‘value’ card if possible.
 
-The way to lose with this deck naturally is for the opponent to continually make attacks that require all four cards to block. Eventually, you will draw a hand with cards that block for less than three and start taking damage. Luckily, the gamble to play this deck was not punished by that notion as the metagame did not include overly aggressive cards like *Sharpen Steel* and *Scour the Battlescape*.
+The way to lose with this deck naturally is for the opponent to continually make attacks that require all four cards to block. Eventually, you will draw a hand with cards that block for less than three and start taking damage. Luckily, the gamble to play this deck was not punished by that notion as the metagame did not include overly aggressive cards like *Sharpen Steel* and *Nimbilism*.
 
-![?](/assets/img/wtr/sharpen-steel-red.png)
-![?](/assets/img/wtr/scour-the-battlescape-red.png)
+![?](/assets/img/wtr/sharpen-steel1.png)
+![?](/assets/img/wtr/nimbilism1.png)
 
 Matchups
 ---
@@ -136,7 +136,7 @@ In all seriousness, Ninja was chosen to be the class to support the value packag
 
 Brendan and I had a very rigorous schedule and approach to testing leading up to the event. Recording every piece of data we could from games played, analysing every decklist from Road to Calling events, constantly challenging every assumption to avoid what felt like the inevitability of tunnel vision and bad habits. I really have to commend Brendan for his dedication in preparing for this event, due to the timezone difference between us, the only opportunity to communicate effectively or play games through sceptical and unreliable card game engines/webcams pointing at our desks was in the early wee hours of the morning and lunch breaks during workdays. Funnily enough, this trend continued while we were both in Auckland a week ahead of the event in order to test in person for the first time together, just when we thought the four a.m wake up calls were over, haha. Our bodies were conditioned for this pattern by this point, I suppose. It was such a shame that we paired against each other in round four. 😥
 
-[?](/assets/img/tcakl-2020-deck-tech/auckland-moon.png)
+[?](/assets/img/tcakl-2020-deck-tech/auckland-moon.jpg)
 ***A snapshot of the moon shining through the clouds over the Auckland CBD as I am making the walk over to Brendan’s apartment to test very early in the morning.***
 
 Stories
@@ -161,14 +161,14 @@ How hilarious that we would pair in round four only for the super-secret technol
 
 He was, unfortunately, one turn away from deploying his threat when the game ended slightly prematurely to a long chain of attacks from myself thanks to both *Snapdragon Scalers* and *Timesnap Potion*. His unique card would have won him the game no question. If anyone can guess the specific card Brendan chose to add into his deck to combat the mirror match gets a special prize.
 
-[?](/assets/img/tcakl-2020-deck-tech/lifepad.png)
+[?](/assets/img/tcakl-2020-deck-tech/lifepad.jpg)
 ***Lifepad from the game against Brendan in round four of The Calling.***
 
 Retrospective
 ---
 Wow, what a journey it has been. Having played each of The Calling events so far, this most recent event has been the most hyped, difficult, and importantly, fun one so far! It was an amazing event to be a part of, seeing players who haven’t played since the last Calling in Auckland late October last year vying to redeem themselves or to prove and hold true to their previous performance (Jasin Long 100% Top 8 rate 😍), as well as those who travelled from all corners of the globe becoming new friends, and of course, the tremendous staff of Legend Story Studios who orchestrated our gathering in the flesh and blood! A massive thank you to everyone who attended!!! I think it was evident to all those in attendance that we are on the frontier of something truly special and unique. I can’t wait for the next one, let alone Arcane Rising which is just a short month away! I hope to be able to talk about the highly anticipated follow up expansion sooner rather than later. 😁
 
-[?](/assets/img/tcakl-2020-deck-tech/plane-wing.png)
+[?](/assets/img/tcakl-2020-deck-tech/auckland-fly.jpg)
 ***Flying out of Auckland on a picture-perfect day.***
 
 Credit
