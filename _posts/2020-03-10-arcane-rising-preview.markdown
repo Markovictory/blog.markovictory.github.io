@@ -7,7 +7,6 @@ categories: flesh-and-blood spoilers arcane-rising
 
 Christmas in March
 ---
-
 It’s that time of year again! There is little more exciting in the TCG world than spoiler season. It’s a glorious few weeks where the community is scrambling to evaluate and discuss new cards all the while trying to manage the excitement of the pending reality where they’ll actually be ripping open some booster packs in a can’t-be-here-soon-enough prerelease event.
 
 The best part is that we get to experience this multiple times per year and it never gets old.
