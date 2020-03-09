@@ -14,7 +14,7 @@ The best part is that we get to experience this multiple times per year and it n
 
 The theme of the most recent hero for **‘Legend Story Studios’** newest expansion **‘Arcane Rising’** for their home-run trading card game **‘Flesh and Blood’** and much-anticipated followup to the debut expansion **‘Welcome to Rathe’** very much plays on the notion of *“never getting old”*.
 
-The newly offered *‘Mechanologist’* class as represented by the dashing *‘Dash, Inventor Extraordinaire’* screams steampunk and innovation! A welcome and curious fantasy trope to join the ranks within the world of Rathe.
+The newly offered **‘Mechanologist’** class as represented by the dashing **‘Dash, Inventor Extraordinaire’** screams steampunk and innovation! A welcome and curious fantasy trope to join the ranks within the world of Rathe.
 
 ![?](/assets/img/preview-arc/arc_001.png)
 
