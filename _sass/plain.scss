@@ -160,9 +160,11 @@ main {
 	padding: 25px;
 	margin: 25px 0;
 	border: solid #f6f6f6;
+	transition: background-color 0.3s;
 }
 .post-item:hover {
 	background-color: #f6f6f6;
+	cursor: pointer;
 }
 .post-container {
 	padding-left: 40px;
