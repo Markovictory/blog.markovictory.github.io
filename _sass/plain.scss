@@ -135,6 +135,7 @@ main {
 	justify-content: space-between;
 	align-items: center;
 	margin-bottom: 25px;
+	color: $linkColor;
 }
 .post-link {
 	text-decoration: none;
@@ -144,6 +145,7 @@ main {
 	line-height: 1.2em;
 	font-size: 28px;
 	margin: 0.35em 0;
+	color: $linkColor;
 }
 .posts, .post-container {
 	list-style-type: none;
