@@ -9,9 +9,9 @@ Dreams do come true
 ---
 I am incredibly excited to announce that I will be joining the amazing team behind the creation of **Flesh and Blood**, the game that we have all quickly fallen in love with, at **Legend Story Studios**!!!
 
-I will be operating under the role of **Business Development Manager** with the primary duty of bringing **Flesh and Blood** into as many countries and territories possible. This is seriously a **dream come true** and I’m very honoured to have the opportunity to spread the joy that is **Flesh and Blood** to the wider reaches of the world.
+I will be operating under the role of **Business Development Manager** with the primary duty of bringing **Flesh and Blood** into as many countries and territories possible. This seriously is a **dream come true** and I’m very honoured to have the opportunity to spread the joy that is **Flesh and Blood** to the wider reaches of the world.
 
-Going forward, I will be **relinquishing any claim or opportunity** to compete in further high-level events such as **The Calling series, Nationals, and the World Championship, etc**. Reaching the **number one rank** in the first season of organised play has been an amazing journey that I will always remember fondly. **Great** people, places, stories, and games. Thank you, **everyone**, who contributed to these events.
+Going forward, I will be relinquishing any claim or opportunity to compete in further high-level events such as **The Calling series, Nationals, and the World Championship, etc**. Reaching the **number one rank** in the first season of organised play has been an amazing journey that I will always remember fondly. **Great people, places, stories, and games.** Thank you, everyone, who contributed to these events.
 
 I truly believe that we are all witnesses and apart of the beginning of something that is **special** and that is here for the **long haul**.
 
